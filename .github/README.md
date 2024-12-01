@@ -1,9 +1,6 @@
 <h2 align="center">
-    ──「 Qᴜᴇᴇɴ ダ ᴍᴜsɪᴄ 」──
 </h2>
 
-<p align="center">
-  <img src="https://files.catbox.moe/xxaycr.jpg">
 </p>
 
 <p align="center">
